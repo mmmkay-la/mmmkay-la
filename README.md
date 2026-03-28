@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 👩🏻‍💻 I’m a PeopleSoft Developer (primarily experienced in Oracle ELM and PeopleSoft ePerformance.)
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently learning about **AI Development**
 - 💕 Hobbies: Reading, Baking, TV Series, Movies
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I took up Computer Science in college because I'm a fan of Iron Man and once wanted to be like him. 😅
